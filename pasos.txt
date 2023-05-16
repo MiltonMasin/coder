@@ -4,4 +4,8 @@
 
 3- git add . : Estoy permite agregar las modificaciones que hagamos
 
-4- git commit -m "Un mensaje descriptivo de algun cambio"
+4- git commit -m "Un mensaje descriptivo de algun cambio", confirma los cambios
+
+5- git branch: saber que ramas hay
+
+5- git merge: para fusionar las ramas con el main
