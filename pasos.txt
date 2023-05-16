@@ -1,0 +1,7 @@
+1- git init: Para inicianilar git, solo se hace la primera vez
+
+2- git status: Para chequear que todo este bien o si hay algun problema
+
+3- git add . : Estoy permite agregar las modificaciones que hagamos
+
+4- git commit -m "Un mensaje descriptivo de algun cambio"
